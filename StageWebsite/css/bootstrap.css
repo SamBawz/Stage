@@ -1119,8 +1119,8 @@ figure {
 img {
   vertical-align: middle;
     height: 88px;
-    width: 1105px;
-    margin-right: 131px;
+    width: 227px;
+    margin-right: 0px;
 }
 .img-responsive,
 .thumbnail > img,
@@ -1294,7 +1294,7 @@ h6,
   font-size: 12px;
 }
 p {
-  margin: 0 0 10px;
+  margin: 0 0 10px 204px;
 }
 .lead {
   margin-bottom: 20px;
@@ -4283,7 +4283,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding: 20px 15px;
   font-size: 18px;
   line-height: 20px;
-  height: 60px;
+  height: 58px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -4505,6 +4505,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-brand {
   color: #ffffff;
+    width: 170px;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
