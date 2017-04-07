@@ -66,6 +66,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\ReviewStars.css" />
+    <Content Include="js\StarRating.js" />
     <Content Include="Login.aspx" />
     <Content Include="packages.config" />
     <Content Include="Master.Master" />
@@ -97,6 +99,7 @@
     <Content Include="Pictures\Leeuwenborgh-Opleidingen_logo.jpg" />
     <Content Include="Pictures\Leeuwenborgh.jpg" />
     <Content Include="Register.aspx" />
+    <Content Include="Review.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -128,6 +131,13 @@
     </Compile>
     <Compile Include="Register.aspx.designer.cs">
       <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Review.aspx.cs">
+      <DependentUpon>Review.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Review.aspx.designer.cs">
+      <DependentUpon>Review.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup />
