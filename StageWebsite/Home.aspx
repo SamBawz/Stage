@@ -47,7 +47,7 @@
     </div>
     <div class="col-sm-2 sidenav">
       <div class="well">
-        <p><img src="http://www.svbtransportgroep.nl/image/afbeeldingen/IMG_3891.jpg" alt="Voorbeeld bedrijf" style="width:200px; height:375px"/></p>
+        <img src="http://www.svbtransportgroep.nl/image/afbeeldingen/IMG_3891.jpg" alt="Voorbeeld bedrijf" style="width:200px; height:375px"/>
       </div>
     </div>
   </div>

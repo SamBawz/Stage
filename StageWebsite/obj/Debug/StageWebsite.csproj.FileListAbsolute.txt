@@ -18,3 +18,23 @@ C:\Users\Gebruiker\Source\Repos\Stage\StageWebsite\bin\Microsoft.CodeDom.Provide
 C:\Users\Gebruiker\Source\Repos\Stage\StageWebsite\obj\Debug\StageWebsite.csprojResolveAssemblyReference.cache
 C:\Users\Gebruiker\Source\Repos\Stage\StageWebsite\obj\Debug\StageWebsite.dll
 C:\Users\Gebruiker\Source\Repos\Stage\StageWebsite\obj\Debug\StageWebsite.pdb
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\roslyn\csc.exe
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\roslyn\vbc.exe
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\StageWebsite.dll.config
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\StageWebsite.dll
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\StageWebsite.pdb
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\obj\Debug\StageWebsite.csprojResolveAssemblyReference.cache
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\obj\Debug\StageWebsite.dll
+C:\Users\ik niet\Source\Repos\Stage3\StageWebsite\obj\Debug\StageWebsite.pdb
